@@ -1,0 +1,35 @@
+//react-roadmap 
+
+//create react projects 
+
+//understand the react flow and strcuture 
+
+//create your own react library and jsx 
+
+//when you need hooks and projects 
+
+//virtual dom , fibre and reconcilliation  =>imp for interview
+  
+  fibre is a critical topic so in free timme read 
+
+
+//tailwind and props in reacts
+
+// a react interview question on counter 
+
+//building  our first react project 
+
+//useEffect,useRef and useCallback with one project 
+
+//custom hooks in react || currency project 
+
+//react-router crash course 
+
+//context api  crash course with 2 projects 
+
+
+=======do revise with notes======
+
+--------------------------part2-------------
+
+1. todo app 

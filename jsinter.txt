@@ -1,0 +1,337 @@
+Course content
+23 sections • 220 lectures • 6h 6m total length
+
+
+Preview
+
+Q1.What is javascript?what is the role of js engine ? 
+Q2.what are client side and server side?
+Q3.what are variables  ? what is the differnce between var,let and const?
+Q4. What are some important string operations in JS?
+Q5. What is DOM? What is the difference between HTML and DOM?
+Q6. What are selectors in JS?
+Q7. Difference getElementById, getElementsByClassName and get elementsByTagName?
+Q8. What are data types in JS?
+Q9. What are operators? What are the types of operators in JS?
+Q10. What are the types of conditions statements in JS?
+Q11. What is a loop? What are the types of loops in JS?
+Q12. What are Functions in JS? What are the types of function?
+Q13. What are Arrow Functions in JS? What is it use?
+Q14. What are Arrays in JS? How to get, add & remove elements from arrays?
+Q15. What are Objects in JS?
+Q16. What is Scope in JavaScript?
+Q17. What is Hoisting in JavaScript?
+Q18. What is Error Handling in JS?
+Q19. What is JSON?
+Q20. What is asynchronous programming in JS? What is its use?
+
+ -------------------------------------------Variables & Datatypes - Introduction------------------------------------------------
+
+Q21. What are variables? What is the difference between var, let, and const ?
+Q22. What are data types in JS?
+Q23. What is the difference between primitive and non-primitive data types?
+Q24. What is the difference between null and undefined in JS?
+Q25. What is the use of typeof operator?
+Q26. What is type coercion in JS?
+
+------------------------------------------Operators & Conditions - Introduction---------------------------------------------------
+
+Q27. What are operators? What are the types of operators in JS?
+Q28. What is the difference between unary, binary, and ternary operators?
+Q29. What is short-circuit evaluation in JS?
+Q30. What is operator precedence?
+Q31. What are the types of conditions statements in JS?
+Q32. When to use which type of conditions statements in real applications?
+Q33. What is the difference between == and ===?
+Q34. What is the difference between Spread and Rest operator in JS?
+
+------------------------------------------Arrays - Introduction----------------------------------------------------------
+
+Q35. What are Arrays in JS? How to get, add & remove elements from arrays?
+Q36. What is the indexOf() method of an Array?
+Q37. What is the difference between find() and filter() methods of an Array?
+Q38. What is the slice() method of an Array?
+Q39. What is the difference between push() and concat () methods of an Array ?
+Q40. What is the difference between pop() and shift() methods of an Array?
+Q41. What is the splice() method of an Array?
+Q42. Difference between the slice() and splice() methods of an Array?
+Q43. What is the difference map() and for Each() array methods of an Array?
+Q44. How to sort and reverse an array?
+Q45. What is Array Destructuring in JS?
+Q46. What are array-like objects In JS?
+Q47. How to convert an array-like object into an array?
+
+
+---------------------------------------------------------Loops - Introduction
+
+Q48. What is a loop? What are the types of loops in JS?
+Q49. What is the difference between while and for loops?
+Q50. What is the difference between while and do-while loops?
+Q51. What is the difference between break and continue statement?
+Q52. What is the difference between for and for…of loop in JS?
+Q53. What is the difference between for…of and for…in loop?
+Q54. What is forEach method? Compare it with for…of and for…in loop?
+Q55. When to use for…of loop and when to use forEach method in applications?
+
+
+-------------------------------------------------------Functions - Introduction----------------------------
+
+Q56. What are Functions in JS? What are the types of function?
+Q57. Difference between named and anonymous functions?
+Q58. What is function expression in JS?
+Q59. What are Arrow Functions in JS? What is it use?
+Q60. What are Callback Functions? What is it use?
+Q61. What is Higher-order function In JS?
+Q62. What is the difference between arguments and parameters?
+Q63. In how many ways can you pass arguments to a function?
+Q64. How do you use default parameters in a function?
+Q65. What is the use of event handling in JS?
+Q66. What are First-Class functions in JS?
+Q67. What are Pure and Impure functions in JS?
+Q68. What is Function Currying in JS?
+Q69. What are call, apply and bind methods in JS?
+
+
+------------------------------------------------------Strings - Introduction-------------------------------------
+
+Q70. What is a String?
+Q71. What are template literals and string interpolation in strings?
+Q72. Difference between single quotes (''), double quotes ("") & backticks('') ?
+Q73. What are some important string operations in JS?
+Q74. What is string immutability?
+Q75. In how many ways you can concatenate strings?
+
+
+---------------------------------------------------DOM - Introduction
+
+Q76. What is DOM? What is the difference between HTML and DOM?
+Q77. How do you select, modify, create and remove DOM elements?
+Q78. What are selectors in JS?
+Q79. Difference between getElementById,getElementsByClassName& getElementsByTag?
+Q80. What is the difference between querySelector() and querySelectorAll()?
+Q81. What are the methods to modify elements properties and attributes?
+Q82. What is the difference between innerHTML and textContent?
+Q83. How to add and remove properties of HTML elements in the DOM using JS?
+Q84. How to add and remove style from HTML elements in DOM using JS?
+Q85. Create new elements in DOM using JS?
+Q86. What is the difference between createElement() and createTextNode()?
+
+
+----------------------------------------------------------Error Handling- Introduction
+
+Q87. What is Error Handling in JS?
+Q88. What is the role of finally block in JS?
+Q89. What is the purpose of the throw statement in JS?
+Q90. What is Error propagation in JS?
+Q91. What are the best practices for error handling?
+Q92. What are the different types of errors In JS?
+
+
+-------------------------------------------------------Objects - Introduction
+
+Q93. What are Objects in JS?
+Q94. In how many ways we can create an object?
+Q95. What is the difference between an array and an object?
+Q96. How do you add or modify or delete properties of an object?
+Q97. Explain the difference between dot notation and bracket notation?
+Q98. What are some common methods to iterate over the properties of an object?
+Q99. How do you check if a property exists in an object?
+Q100. How do you clone or copy an object?
+Q101. What is the difference between deep copy and shallow copy in JS?
+Q102. What is Set Object in JS?
+Q103. What is Map Object in JS?
+Q104. What is the difference between Map and Object in JS?
+
+--------------------------------------------------------Events - Introduction
+
+Q105. What are Events? How are events triggered?
+Q106. What are the types of events in JS?
+Q107. What is Event Object in JS?
+Q108. What is Event Delegation in JS?
+Q109. What is Event Bubbling In JS?
+Q110. How can you stop event propagation or event bubbling in JS?
+Q111. What is Event Capturing in JS?
+Q112. What is the purpose of the event.preventDefault() method in JS?
+Q113. What is the use of "this" keyword in the context of event handling in JS?
+Q114. How to remove an event handler from an element in JS?
+
+-------------------------------------------------------Closures - Introduction
+
+Q115. Explain the concept of Lexical Scoping?
+Q116. What is Closure?
+Q117. What are the benefits of Closures?
+Q118. What is the concept of Encapsulation in the context of closures?
+Q119. What are the disadvantage or limitations of Closures?
+Q120. How can you release the variable references or closures from memory?
+Q121. What is the difference between a Regular Function and a Closure?
+
+
+-----------------------------------------------Asynchronous programming – Basics - Introduction
+
+Q122. What is asynchronous programming in JS? What is its use?
+Q123. What is the difference between synchronous and asynchronous programming?
+Q124. What are the techniques for achieving asynchronous operations in JS?
+Q125. What is setTimeout()? How is it used to handle asynchronous operations?
+Q126. What is setInterval()? How is it used to handle asynchronous operations?
+Q127. What is the role of callbacks in fetching API data asynchronously?
+Q128. What is callback hell? How can it be avoided?
+
+
+-----------------------------------------------Asynchronous Programming - Promises - Introduction
+
+Q129. What are Promises in JavaScript?
+Q130. How to implement Promises in JavaScript?
+Q131. When to use Promises in real applications?
+Q132. What is the use of Promise.all() method?
+Q133. What is the use of Promise.race() method?
+Q134. What is the difference between Promise.all() and Promise.race()?
+
+
+------------------------------------------------Asynchronous Programming – Async Await - Introduction
+
+Q135. What is the purpose of async/ await? Compare it with Promises?
+Q136. Explain the use of async and await keywords in JS?
+Q137. Can we use async keyword without await keyword and vice versa?
+Q138. How do you handle errors in async/ await functions?
+
+
+---------------------------------------------Browser APIs & Web Storage - Introduction
+
+Q139. What is a window object?
+Q140. What are Browser APIs in JS?
+Q141. What is Web Storage, and its use? How many types of web storage are there?
+Q142. What is Local Storage? How to store, retrieve and remove data from it?
+Q143. What is Session Storage? How to store, retrieve and remove data from it?
+Q144. What is the difference between LocalStorage and SessionStorage?
+Q145. How much data can be stored in localStorage and sessionStorage?
+Q146. What are cookies? How do you create and read cookies?
+Q147. What is the difference between cookies and web storage?
+Q148. When to use cookies and when to use web storage?
+
+
+----------------------------------------------Classes, Constructors, this & Inheritance - Introduction
+
+Q149. What are Classes in JS?
+Q150. What is a constructor?
+Q151. What are constructor functions?
+Q152. What is the use of this keyword?
+Q153. Explain the concept of prototypal inheritance?
+
+
+----------------------------------------------ECMAScript & Modules - Introduction
+
+Q154. What is ES6? What are some new features introduced by it?
+Q155. What are Modules in JS?
+Q156. What is the role of export keyword?
+Q157. What are the advantages of modules?
+Q158. What is the difference between named exports and default exports?
+Q159. What is the difference between static and dynamic imports?
+Q160. What are module bundlers?
+
+
+------------------------------------------Security & Performance - Introduction
+
+Q161. What is eval() function in JS?
+Q162. What is XSS (Cross-Site Scripting) attack?
+Q163. What is SQL Injection attack?
+Q164. What are some best practices for security in JS?
+Q165. What are the best practices for improving performance in JS?
+
+
+-------------------------------------Scenario based – Tricky Short Questions - Introduction
+
+Q166- Q185
+Scenario based – Feature Development Questions - Introduction
+Q186. How to validate user input as they type in a form?
+Q187. How to implement pagination for displaying large sets of data?
+Q188. How to implement drag-and-drop functionality for elements on a web page?
+Q189. Feature that allows users to search for specific items in a large dataset?
+Q190. Feature that allows users to perform live search suggestions as they type?
+Q191. How to implement a real-time chat application using JS?
+Q192. Create an infinite scrolling using JS when a user reaches the webpage ?
+Q193. Implement toggle switch to change the theme(light/dark mode) of a website?
+Q194. How to use JS to dynamically update date in real time on webpage?
+Q195. Prevent a form from being submitted without required fields being filled?
+
+
+
+-----------------------------------------Coding - Introduction
+
+Q196. Write a function that returns the reverse of a string?
+Q197. Write a function that returns the longest word in the sentence?
+Q198. Function that checks whether a given string is a palindrome or not?
+Q199. Write a function to remove duplicate elements from an array?
+Q200. Write a function that checks whether two strings are anagrams or not?
+Q201. Write a function that returns the number of vowels in a string?
+Q202. Write a function to find the largest number in an array?
+Q203. Write a function to check if a given number is prime or not?
+Q204. Write a function to calculate the factorial of a number?
+Q205. Write a program to remove all whitespace characters from a string?
+Q206. Write a function to find the sum of all elements in an array?
+Q207. Write a function to find the average of an array of numbers?
+Q208. Write a function to sort an array of numbers in ascending order?
+Q209. Write a function to check if an array is sorted in ascending order or not?
+Q210. Write a function to merge two arrays into a single sorted array?
+Q211. Write a function to remove a specific element from an array?
+Q212. Write a function to find the second largest element in an array?
+Q213. Write a function to reverse the order of words in a given sentence?
+Q214. Function to find the longest common prefix among an array of strings?
+Q215. Write a function to find the intersection of two arrays?
+Q216. Write a function to calculate the Fibonacci sequence up to a given number?
+
+
+ 
+
+1. The top 200 most important questions with their answers in the video lectures
+
+Here are the topics covered:
+
+Basics
+
+Variables and data types
+
+Operators & Conditions
+
+Arrays
+
+Loops
+
+Functions
+
+Strings
+
+DOM
+
+Error Handling
+
+Objects
+
+Events
+
+Closures
+
+Asynchronous programming: basics
+
+Asynchronous Programming: Promises
+
+Asynchronous Programming: Async Await
+
+Browser APIs and Web Storage
+
+Classes, constructors, this, and inheritance
+
+ECMAScript and Modules
+
+Security and Performance
+
+Scenario-based: Tricky Short Questions
+
+Scenario-based feature development questions
+
+JS Coding Questions
+
+All the questions are explained with the help of diagrams, code and definition. So that candidates can explain the answers in interviews with the help of examples.
+
+
+
+
